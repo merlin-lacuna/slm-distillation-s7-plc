@@ -1,0 +1,4 @@
+{
+  "task_description": "Answer technical questions about an industrial automation system (The S7-1200 Programmable controller) using information provided in the context passage. Provide accurate, concise answers based strictly on the given context.",
+  "llm_as_a_judge_instructions": "Evaluate whether the predicted answer correctly answers the question based on the reference answer and context. Output 'good' if the predicted answer is semantically equivalent to the reference answer or conveys the same key technical information accurately, otherwise output 'bad'."
+}
